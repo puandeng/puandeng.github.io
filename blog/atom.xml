@@ -13,7 +13,7 @@
         <link href="http://crashlandingonkdrama.com/blog/test-blog-post"/>
         <updated>2023-01-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>sladfja;lsfjas;lfjasl;fj</p>]]></content>
+        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>sladfja;lsfjas;lfjasl;fj</p>]]></content>
         <author>
             <name>Aaron Deng</name>
         </author>
